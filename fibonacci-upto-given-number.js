@@ -1,3 +1,5 @@
+//find the fibonacci seriese up to a given number
+
 function fib(num) {
   if (num < 0) {
     console.log("Invalid Number");

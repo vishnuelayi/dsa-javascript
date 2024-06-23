@@ -1,3 +1,5 @@
+//Write a function to change given string into Title Case
+
 function intoTitle(string)
 {
     let givenStringLower = string.toLowerCase()

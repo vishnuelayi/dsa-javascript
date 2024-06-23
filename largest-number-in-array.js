@@ -1,3 +1,5 @@
+// Write a function to find the longest number in a given array.
+
 function largest(array) {
   let largest = array[0];
 

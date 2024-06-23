@@ -1,3 +1,4 @@
+
 function sort(arr, key)
 {
     const sortedArray = arr.sort((a,b) => a[key] - b[key])

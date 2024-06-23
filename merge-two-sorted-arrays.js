@@ -1,3 +1,5 @@
+//Write a function to merge two arrays as sorted
+
 function sortAndMerge(arr1, arr2) {
   let sortedArray = [];
   let i = 0;

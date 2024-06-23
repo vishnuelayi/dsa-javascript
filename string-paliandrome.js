@@ -1,3 +1,5 @@
+// Write a JavaScript function to check if a given string is a palindrome
+
 function isPaliandrome(word) {
   const cleanString = word.toLowerCase();
 

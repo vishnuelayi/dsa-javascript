@@ -1,3 +1,5 @@
+//Write a recursive function to find factorial of a given number
+
 function factorial(num) {
   if (num === 0) {
     return 1;
