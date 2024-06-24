@@ -1,3 +1,5 @@
+//Write a javascript function to sort the given number array and replace the duplicate numbers with "_"
+
 function removeDuplicate(sortedArray) {
   for (let i = 0; i <= sortedArray.length-1 ; i++) {
     if (sortedArray[i] === "_") continue;
